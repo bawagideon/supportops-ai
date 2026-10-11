@@ -1,0 +1,13 @@
+{
+  "name": "supportops-ai",
+  "version": "1.0.0",
+  "description": "Human-Governed Support Desk with Confidence Gating, Policy Retrieval, and Webhook Entitlements",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/supportops-ai.test.js",
+    "start": "node src/index.js"
+  },
+  "keywords": ["ai-agents", "customer-support", "confidence-routing", "human-in-the-loop", "observability"],
+  "author": "Gideon Bawa <bawagideon98@gmail.com>",
+  "license": "MIT"
+}
